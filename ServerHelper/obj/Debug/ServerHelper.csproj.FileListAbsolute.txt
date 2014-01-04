@@ -1,0 +1,11 @@
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\bin\Debug\ServerHelper.exe.config
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\bin\Debug\ServerHelper.exe
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\bin\Debug\ServerHelper.pdb
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\obj\Debug\ServerHelper.csprojResolveAssemblyReference.cache
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\obj\Debug\ServerHelper.F_main.resources
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\obj\Debug\ServerHelper.Properties.Resources.resources
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\obj\Debug\ServerHelper.csproj.GenerateResource.Cache
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\obj\Debug\ServerHelper.exe
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\obj\Debug\ServerHelper.pdb
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\bin\Debug\ServerHelperDll.dll
+F:\Programy\C#-projekty\ServerHelper\ServerHelper\bin\Debug\ServerHelperDll.pdb

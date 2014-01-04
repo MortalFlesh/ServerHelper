@@ -1,0 +1,5 @@
+F:\Programy\C#-projekty\ServerHelper\ServerHelperDll\bin\Debug\ServerHelperDll.dll
+F:\Programy\C#-projekty\ServerHelper\ServerHelperDll\bin\Debug\ServerHelperDll.pdb
+F:\Programy\C#-projekty\ServerHelper\ServerHelperDll\obj\Debug\ServerHelperDll.csprojResolveAssemblyReference.cache
+F:\Programy\C#-projekty\ServerHelper\ServerHelperDll\obj\Debug\ServerHelperDll.dll
+F:\Programy\C#-projekty\ServerHelper\ServerHelperDll\obj\Debug\ServerHelperDll.pdb
