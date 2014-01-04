@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ServerHelperConfig>
   <path>
-    <apache>c:\test</apache>
+    <apache>c:\xampp\apache\conf\extra</apache>
     <htDocs>c:/xampp/htdocs</htDocs>
-    <host>c:\test\hosts</host>
+    <host>c:\Windows\System32\Drivers\etc\hosts</host>
   </path>
 </ServerHelperConfig>

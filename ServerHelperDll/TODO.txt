@@ -1,0 +1,2 @@
+﻿- přeložit do EN (komentáře atd)
+- oddělit config z FileHelperu
